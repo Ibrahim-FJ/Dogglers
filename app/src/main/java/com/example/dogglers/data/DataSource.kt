@@ -24,6 +24,8 @@ import com.example.dogglers.model.Dog
 object DataSource {
 
     val dogs: List<Dog> = listOf(
+        Dog(R.drawable.bella, "dhjfj", "13", "dyjkuyi"),
+
         Dog(
             R.drawable.tzeitel,
             "Tzeitel",
